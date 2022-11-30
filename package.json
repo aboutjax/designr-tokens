@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/aboutjax/designr-tokens/issues"
   },
-  "homepage": "https://github.com/aboutjax/designr-tokens#readme"
+  "homepage": "https://github.com/aboutjax/designr-tokens#readme",
+  "publishConfig": {"aboutjax:registry": "https://npm.pkg.github.com"}
 }
